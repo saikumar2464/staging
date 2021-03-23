@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'test-appservice123'
         slot-name: 'staging'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5f8394eabba24ecf9c8c558907aacfeb }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1df8b1bdceac4d66b4844e9a296d868f }}
         package: \published\
